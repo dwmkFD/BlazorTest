@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Shared\\BlazorTest.Shared.csproj",
+      "projectUniqueName": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Shared\\BlazorTest.Shared.csproj",
       "projectName": "BlazorTest.Shared",
-      "projectPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Shared\\BlazorTest.Shared.csproj",
+      "projectPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Shared\\BlazorTest.Shared.csproj",
       "packagesPath": "C:\\Users\\FD\\.nuget\\packages\\",
-      "outputPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Shared\\obj\\",
+      "outputPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

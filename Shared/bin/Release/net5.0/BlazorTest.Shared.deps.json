@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BlazorTest.Shared/1.0.0": {
+        "dependencies": {
+          "PublishSPAforGitHubPages.Build": "2.1.0"
+        },
+        "runtime": {
+          "BlazorTest.Shared.dll": {}
+        }
+      },
+      "PublishSPAforGitHubPages.Build/2.1.0": {}
+    }
+  },
+  "libraries": {
+    "BlazorTest.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PublishSPAforGitHubPages.Build/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VRWnrSgdtrWazAz+ECswdRqGYwE7KyKwh4HtdWuH2jDjBjwtaM4NiSY1c962XU3soLW2EDnIOMJ08EJRX2VDqA==",
+      "path": "publishspaforgithubpages.build/2.1.0",
+      "hashPath": "publishspaforgithubpages.build.2.1.0.nupkg.sha512"
+    }
+  }
+}

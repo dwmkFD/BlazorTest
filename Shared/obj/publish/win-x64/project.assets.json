@@ -1,0 +1,146 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "PublishSPAforGitHubPages.Build/2.1.0": {
+        "type": "package",
+        "build": {
+          "build/PublishSPAforGitHubPages.Build.targets": {}
+        }
+      }
+    },
+    "net5.0/win-x64": {
+      "PublishSPAforGitHubPages.Build/2.1.0": {
+        "type": "package",
+        "build": {
+          "build/PublishSPAforGitHubPages.Build.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PublishSPAforGitHubPages.Build/2.1.0": {
+      "sha512": "VRWnrSgdtrWazAz+ECswdRqGYwE7KyKwh4HtdWuH2jDjBjwtaM4NiSY1c962XU3soLW2EDnIOMJ08EJRX2VDqA==",
+      "type": "package",
+      "path": "publishspaforgithubpages.build/2.1.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/PublishSPAforGitHubPages.Build.targets",
+        "bundle/scripts/brotliloader.js",
+        "bundle/scripts/brotliloader.min.js",
+        "bundle/scripts/decode.js",
+        "bundle/scripts/decode.min.js",
+        "nupkg-icon.png",
+        "publishspaforgithubpages.build.2.1.0.nupkg.sha512",
+        "publishspaforgithubpages.build.nuspec",
+        "tools/Brotli.Core.dll",
+        "tools/PublishSPAforGitHubPages.Build.dll",
+        "tools/runtimes/linux/native/brolib_x64.so",
+        "tools/runtimes/linux/native/brolib_x86.so",
+        "tools/runtimes/osx/native/brolib_x64.dylib",
+        "tools/runtimes/win/native/brolib_x64.dll",
+        "tools/runtimes/win/native/brolib_x86.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "PublishSPAforGitHubPages.Build >= 2.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\FD\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Shared\\BlazorTest.Shared.csproj",
+      "projectName": "BlazorTest.Shared",
+      "projectPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Shared\\BlazorTest.Shared.csproj",
+      "packagesPath": "C:\\Users\\FD\\.nuget\\packages\\",
+      "outputPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Shared\\obj\\publish\\win-x64\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\FD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "PublishSPAforGitHubPages.Build": {
+            "target": "Package",
+            "version": "[2.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  }
+}

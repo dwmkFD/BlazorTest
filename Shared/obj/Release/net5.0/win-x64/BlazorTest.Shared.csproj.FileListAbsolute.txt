@@ -1,0 +1,11 @@
+D:\My Documents\text\git_workspace\BlazorTest\Shared\bin\Release\net5.0\win-x64\BlazorTest.Shared.deps.json
+D:\My Documents\text\git_workspace\BlazorTest\Shared\bin\Release\net5.0\win-x64\BlazorTest.Shared.dll
+D:\My Documents\text\git_workspace\BlazorTest\Shared\bin\Release\net5.0\win-x64\ref\BlazorTest.Shared.dll
+D:\My Documents\text\git_workspace\BlazorTest\Shared\bin\Release\net5.0\win-x64\BlazorTest.Shared.pdb
+D:\My Documents\text\git_workspace\BlazorTest\Shared\obj\Release\net5.0\win-x64\BlazorTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\text\git_workspace\BlazorTest\Shared\obj\Release\net5.0\win-x64\BlazorTest.Shared.AssemblyInfoInputs.cache
+D:\My Documents\text\git_workspace\BlazorTest\Shared\obj\Release\net5.0\win-x64\BlazorTest.Shared.AssemblyInfo.cs
+D:\My Documents\text\git_workspace\BlazorTest\Shared\obj\Release\net5.0\win-x64\BlazorTest.Shared.csproj.CoreCompileInputs.cache
+D:\My Documents\text\git_workspace\BlazorTest\Shared\obj\Release\net5.0\win-x64\BlazorTest.Shared.dll
+D:\My Documents\text\git_workspace\BlazorTest\Shared\obj\Release\net5.0\win-x64\ref\BlazorTest.Shared.dll
+D:\My Documents\text\git_workspace\BlazorTest\Shared\obj\Release\net5.0\win-x64\BlazorTest.Shared.pdb

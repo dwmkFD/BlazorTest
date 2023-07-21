@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BlazorTest.Shared</id>
+    <version>1.0.0</version>
+    <authors>BlazorTest.Shared</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="PublishSPAforGitHubPages.Build" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\My Documents\text\git_workspace\BlazorTest\Shared\bin\Release\net5.0\win-x64\BlazorTest.Shared.dll" target="lib\net5.0\BlazorTest.Shared.dll" />
+  </files>
+</package>

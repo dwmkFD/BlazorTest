@@ -919,11 +919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Server\\BlazorTest.Server.csproj",
+      "projectUniqueName": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Server\\BlazorTest.Server.csproj",
       "projectName": "BlazorTest.Server",
-      "projectPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Server\\BlazorTest.Server.csproj",
+      "projectPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Server\\BlazorTest.Server.csproj",
       "packagesPath": "C:\\Users\\FD\\.nuget\\packages\\",
-      "outputPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Server\\obj\\",
+      "outputPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -947,11 +947,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Client\\BlazorTest.Client.csproj": {
-              "projectPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Client\\BlazorTest.Client.csproj"
+            "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Client\\BlazorTest.Client.csproj": {
+              "projectPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Client\\BlazorTest.Client.csproj"
             },
-            "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Shared\\BlazorTest.Shared.csproj": {
-              "projectPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Shared\\BlazorTest.Shared.csproj"
+            "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Shared\\BlazorTest.Shared.csproj": {
+              "projectPath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Shared\\BlazorTest.Shared.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dYyGPkjN/MTBkCMJj/afcTxIcXy1d2W/na6SR+atkEK8SCOnhRS6R/xtMHsHnNH1to+V5yvAoMGAfsgS4Ye/Ug==",
+  "dgSpecHash": "JX7Ws0QG7/ce/GALqYzqCzlh6RqXsl2rS1cQSccwSPfUneq11mkGWzuFIbvJO3K3anaEgM7X4SC1q0xHPUw0zA==",
   "success": true,
-  "projectFilePath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Shared\\BlazorTest.Shared.csproj",
+  "projectFilePath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Shared\\BlazorTest.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FD\\.nuget\\packages\\publishspaforgithubpages.build\\2.1.0\\publishspaforgithubpages.build.2.1.0.nupkg.sha512"
   ],

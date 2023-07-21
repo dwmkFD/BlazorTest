@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9XF6qW7jvhWhFJbVfm2ysGPf2tLnUFeGYaH89sRUTA0vA7LCVE2KgkSXqpQAH4gZVk6xdWRxEl8NfRDhB1EJ2w==",
+  "dgSpecHash": "Z5J3qzKsa034ro+8nQa8+YrTNd9fqK1Biz6SPl8c9IUeIrI9YDDan2vzsC5eh15C2qPa7lBgBnXtmeEaB/YHSg==",
   "success": true,
-  "projectFilePath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\BlazorTest\\Client\\BlazorTest.Client.csproj",
+  "projectFilePath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Client\\BlazorTest.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FD\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.17\\microsoft.aspnetcore.authorization.5.0.17.nupkg.sha512",
     "C:\\Users\\FD\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.17\\microsoft.aspnetcore.components.5.0.17.nupkg.sha512",
