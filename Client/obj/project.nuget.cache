@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Z5J3qzKsa034ro+8nQa8+YrTNd9fqK1Biz6SPl8c9IUeIrI9YDDan2vzsC5eh15C2qPa7lBgBnXtmeEaB/YHSg==",
+  "dgSpecHash": "s2gXt4d0rGQHT8GW0xVEnrV7Z/6GZV3iFjZ0qas7QtpqbGqGwi894yLHtXXMMm2ufTRtl8SLuDlTxr7OF517zw==",
   "success": true,
   "projectFilePath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Client\\BlazorTest.Client.csproj",
   "expectedPackageFiles": [
@@ -30,8 +30,7 @@
     "C:\\Users\\FD\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.17\\microsoft.jsinterop.webassembly.5.0.17.nupkg.sha512",
     "C:\\Users\\FD\\.nuget\\packages\\publishspaforgithubpages.build\\2.1.0\\publishspaforgithubpages.build.2.1.0.nupkg.sha512",
     "C:\\Users\\FD\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
-    "C:\\Users\\FD\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\FD\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.17\\microsoft.netcore.app.runtime.browser-wasm.5.0.17.nupkg.sha512"
+    "C:\\Users\\FD\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

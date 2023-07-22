@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "f+FaJH5Fx3z2tNPRdFMOVuJX5bL6aaCFRBQ7cEhrCxcmEeMBy1XBYjiHU+SuSl+l6SoLeASeyxNlCwheKArVtw==",
+  "dgSpecHash": "bkODEnh9VZyrUhAgQe7Wkvsx7o8RQMrgVcwFQ7LgTtSc2iaPSAE9DCZ7xSZ2HrcNZLFyHF65jPxy/E7ge20kow==",
   "success": true,
   "projectFilePath": "D:\\My Documents\\text\\git_workspace\\BlazorTest\\Shared\\BlazorTest.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FD\\.nuget\\packages\\publishspaforgithubpages.build\\2.1.0\\publishspaforgithubpages.build.2.1.0.nupkg.sha512",
-    "C:\\Users\\FD\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.17\\microsoft.netcore.app.runtime.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\FD\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.17\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\FD\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.17\\microsoft.aspnetcore.app.runtime.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\FD\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.9\\microsoft.netcore.app.runtime.win-x64.7.0.9.nupkg.sha512",
+    "C:\\Users\\FD\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.9.nupkg.sha512",
+    "C:\\Users\\FD\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.9\\microsoft.aspnetcore.app.runtime.win-x64.7.0.9.nupkg.sha512"
   ],
   "logs": []
 }
